@@ -1,0 +1,54 @@
+section{
+    margin: auto;
+    width: 350px;
+    background-color: black;
+    height: 520px;
+    border-radius: 10px;
+}
+section h2{
+    margin-top: 10px;
+}
+
+section i{
+    font-size: 40px;
+}
+section div{
+    display: flex;
+    justify-content:space-between ;
+    margin: 10px 10px;
+}
+.d{
+    display: flex;
+}
+
+#l{
+    display: flex;
+    margin: auto;
+}
+#plength{
+    width: 60px;    
+    height: 15px;
+    margin: auto 20px ;
+}
+
+#password{
+    width: 250px;
+    height: 20px;
+    font-size: 20px;
+    border-radius:white  20px;
+    padding: 10px 20px;
+    color: black;
+    background-color: white;
+    margin: 0 0px 0 7px;
+}
+
+section div p{
+    color: white;
+    margin: 20px 10px;
+}
+section button{
+    width: 270px;
+    height: 50px;
+    margin: 0 45px;
+    border-radius: 20px;
+}
